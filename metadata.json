@@ -1,0 +1,7 @@
+{
+  "name": "US Interstate: Highway Racer 3D",
+  "description": "An immersive 3D highway racing game across famous US Interstate routes with dynamic traffic patterns, realistic weather conditions, and high-octane American muscle cars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
